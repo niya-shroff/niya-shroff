@@ -1,4 +1,3 @@
-````md id="nsreadmev2"
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;NIYA+SHROFF+%5BNS%5D;SOFTWARE+ENGINEER+%40+JPMC;BUILDING+THINGS+WITH+PERSONALITY+%E2%98%BB" />
@@ -172,4 +171,3 @@ FRONTEND       :: React • Next.js • Angular • HTML/CSS
 SYS.LOG :: "Just another human being on this beautiful
 planet trying to make sense of it all." ☻
 ```
-````
