@@ -1,240 +1,111 @@
-````md
-# [NS] INITIALIZING PROFILE...
+# [NS] ☻
 
 ```txt
-> SYSTEM ONLINE
-> ENTITY DETECTED: NIYA SHROFF
-> TYPE: HUMAN
-> STATUS: EXPLORING
+INITIALIZING PORTFOLIO...
+TYPE: HUMAN
+STATUS: EXPLORING
+LOCATION: NYC
 ```
 
-```ascii
-███╗   ██╗███████╗
-████╗  ██║██╔════╝
-██╔██╗ ██║███████╗
-██║╚██╗██║╚════██║
-██║ ╚████║███████║
-╚═╝  ╚═══╝╚══════╝
-```
+Software Engineer @ JPMorgan Chase & Co.
 
-Software Engineer @ JPMorgan Chase & Co.  
-Building things that live somewhere between engineering, creativity, and curiosity.
-
-I like:
-- AI systems
-- backend engineering
-- workflow automation
-- weird internet projects
-- interfaces with personality
-- building things that maybe shouldn’t work… but somehow do
-
-Currently based in New York City.
-
----
-
-# SYS.INFO
-
-```yaml
-NAME: Niya Shroff
-LOCATION: New York, NY
-EDUCATION:
-  - B.S. Computer Science
-  - B.A. Economics
-UNIVERSITY: UMass Amherst
-GRADUATION: December 2024
-HONORS: Magna Cum Laude
-CURRENT_ROLE: Software Engineer @ JPMorgan Chase & Co.
-STATUS: still figuring it all out ☻
-```
+Recently graduated from UMass Amherst with a dual degree in Computer Science + Economics. I like building things that sit somewhere between engineering, creativity, and curiosity — usually involving AI, backend systems, automation, or random side quests that spiral into real projects.
 
 ---
 
 # FEATURED_PROJECTS
 
-## 🔎 SUBSTACKER
-> Serverless FastAPI search infrastructure for Substack
+## 🔎 Substacker
+Serverless FastAPI infrastructure for searching + discovering Substack content.
 
-Creating a Python/FastAPI service that enables:
-- public Substack post search
-- username + metadata filtering
+- public post search
 - creator discovery
-- search infrastructure experimentation
+- metadata filtering
+- search/retrieval experimentation
 
 ```txt
-STACK: Python • FastAPI • APIs • Serverless
-STATUS: ACTIVE
+Python • FastAPI • APIs • Serverless
 ```
+
+🔗 https://github.com/niya-shroff/substacker
 
 ---
 
-## 💼 LINKEDIN SCRAPER
-> Research + automation tooling
+## 💼 LinkedIn Scraper
+Educational automation + lead research tooling inspired by CRM workflows during internship work.
 
-Built a LinkedIn profile scraper for educational/research workflows inspired by CRM lead research work during a prior internship.
-
-Features:
 - profile extraction
 - structured parsing
-- automation pipelines
-- data collection workflows
-
-```txt
-STACK: Python • Automation • Data Processing
-STATUS: ONLINE
-```
-
----
-
-## 🧠 FACIAL RECOGNITION APP
-> Computer vision side quest
-
-A facial recognition app originally built for fun during college to recognize and track people I met throughout the years.
-
-Features:
-- face detection
-- identity matching
-- recognition workflows
-
-```txt
-STACK: Python • OpenCV • Computer Vision
-STATUS: EXPERIMENTAL
-```
-
----
-
-## 🎓 TUTOR PORTAL APP
-> JPMorgan Code for Good Hackathon
-
-Built for the JREAM Foundation.
-
-A tutor-family matching platform featuring:
-- swipe-style matching
-- onboarding workflows
-- tutor discovery UX
-- matching algorithms
-
-```txt
-STACK: Full-Stack Development
-STATUS: DEPLOYED
-```
-
----
-
-# TECHNICAL_ARSENAL
-
-## BACKEND_DEV
-```txt
-Python        ████████░░ 80%
-Java          ████████░░ 80%
-Node.js       ███████░░░ 70%
-Databases     ███████░░░ 70%
-```
-
-## ARTIFICIAL_INTELLIGENCE
-```txt
-RAG + LLMs    ███████░░░ 70%
-LangChain     ████████░░ 85%
-Prompt Eng    █████████░ 90%
-Pandas/NumPy  ██████░░░░ 60%
-```
-
-## FRONTEND_DEV
-```txt
-React/Next.js ██████░░░░ 65%
-Angular       █████░░░░░ 50%
-TypeScript    ██████░░░░ 65%
-HTML/CSS      ██████░░░░ 65%
-```
-
-## CLOUD_&_TOOLS
-```txt
-AWS           ████████░░ 80%
-Docker        ███████░░░ 70%
-Git/GitHub    █████████░ 90%
-CI/CD         ████████░░ 80%
-```
-
----
-
-# CURRENT_INTERESTS
-
-- AI agents
-- search + retrieval systems
-- internet infrastructure
 - workflow automation
-- human-centered software
-- rapid prototyping
-- blending engineering with art/design
-- building products with personality
+- research pipelines
+
+```txt
+Python • Automation • Data Processing
+```
+
+🔗 https://github.com/niya-shroff/linkedin-scraper
 
 ---
 
-# ACADEMIC_LOGS
+## 🧠 Facial Recognition App
+Computer vision side project built during college to recognize and track people I’d met over time.
 
-## UNIVERSITY OF MASSACHUSETTS AMHERST
 ```txt
-B.S. Computer Science
-B.A. Economics
-Graduated: December 2024
-Magna Cum Laude
+Python • OpenCV • Computer Vision
 ```
 
-### Coursework
-- Artificial Intelligence
-- Software Engineering
-- Algorithms & Data Structures
-- Econometrics
-- Game Theory
-- Project Management
+🔗 https://github.com/niya-shroff/facial-recognition-app
 
-### Extracurriculars
+---
+
+## 🎓 Tutor Portal App
+Built during JPMorgan Code for Good for the JREAM Foundation.
+
+Swipe-style tutor matching platform with onboarding + matching workflows.
+
+```txt
+Full-Stack Development • UX Design
+```
+
+---
+
+# TECH_STACK
+
+```txt
+LANGUAGES
+Python • Java • JavaScript • SQL • TypeScript
+
+BACKEND
+FastAPI • Node.js • REST APIs • GraphQL
+
+AI
+RAG • LLMs • LangChain • Prompt Engineering
+
+CLOUD + TOOLS
+AWS • Docker • Git/GitHub • CI/CD
+
+FRONTEND
+React • Next.js • Angular • HTML/CSS
+```
+
+---
+
+# ABOUT_ME
+
+- Software Engineer @ JPMorgan
+- Magna Cum Laude @ UMass Amherst
 - Philosophy & Open Thought Club VP
-- Zoola Women’s Ultimate Frisbee Team
+- Engineer / Writer / Photographer / Filmmaker
+- Big fan of interfaces with personality ☻
 
----
-
-# CERTIFICATIONS
-
-- AWS Certified Cloud Practitioner
-- Kaggle Intro to Machine Learning
-- Bloomberg Marketing Concepts
-
----
-
-# OTHER_CAPABILITIES
-
-```txt
-ENGINEER
-WRITER
-PHOTOGRAPHER
-FILMMAKER
-PROFESSIONAL SIDE-QUESTER
-```
-
----
-
-# SYS.LOG
-
-> "Just another human being on this beautiful planet trying to make sense of it all."
+> “Just another human being on this beautiful planet trying to make sense of it all.”
 
 ---
 
 # CONNECT
 
 ```txt
-PORTFOLIO  :: https://niyashroff.me
+PORTFOLIO :: https://niyashroff.me
 LINKEDIN  :: https://linkedin.com/in/niyashroff
 GITHUB    :: https://github.com/niya-shroff
-LOCATION  :: New York City
 ```
-
----
-
-# FINAL_MESSAGE
-
-Most of my projects begin with:
-
-> "Wait... it would be funny if this actually worked."
-
-And somehow, eventually, they do ☻
-````
