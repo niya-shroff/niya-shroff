@@ -86,17 +86,6 @@ Computer vision experiment built during college.
 
 ---
 
-### 🎓 Tutor Portal (JPMC Code for Good)
-Swipe-style tutor matching platform built for JREAM Foundation.
-
-- matching + onboarding flows  
-- modern UX system design  
-- hackathon-built full stack app  
-
-`Full Stack • UX Design`
-
----
-
 ## ```toolbox/```
 
 ```txt
