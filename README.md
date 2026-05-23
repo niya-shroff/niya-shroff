@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;NIYA+SHROFF+%5BNS%5D;SOFTWARE+ENGINEER+%40+JPMC;BUILDING+THINGS+WITH+PERSONALITY+%E2%98%BB" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;NIYA+SHROFF+%5BNS%5D;SOFTWARE+ENGINEER+%40+JPMORGAN;BUILDING+THINGS+WITH+PERSONALITY+%E2%98%BB" />
 
 <br/>
 
-```txt
+```text
 TYPE     :: HUMAN
 STATUS   :: EXPLORING
 LOCATION :: NYC
@@ -14,42 +14,44 @@ FOCUS    :: AI • SYSTEMS • AUTOMATION • CREATIVE TECH
 <br/>
 
 <a href="https://niyashroff.me">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/niyashroff">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/niya-shroff">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-```txt
-> EXECUTING about.sh
+## ```about.sh```
 
+```text
 Computer Science + Economics graduate from UMass Amherst.
 Currently working as a Software Engineer at JPMorgan Chase & Co.
 
 I enjoy building systems that feel technically solid but still human —
 usually involving AI, backend infrastructure, automation,
-search/retrieval systems, or weird internet experiments that
+search systems, or weird internet experiments that
 accidentally become real products.
 ```
 
 ---
 
-# SELECTED_WORK
+# ```selected_work/```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🔎 SUBSTACKER
+### 🔎 SUBSTACKER
 
-```txt
+```text
 SERVERLESS SEARCH INFRASTRUCTURE
 FOR SUBSTACK DISCOVERY
 ```
@@ -58,23 +60,23 @@ FastAPI-based search system for exploring public Substack content through metada
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Serverless-111111?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/niya-shroff/substacker">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💼 LINKEDIN SCRAPER
+### 💼 LINKEDIN SCRAPER
 
-```txt
+```text
 AUTOMATION + RESEARCH TOOLING
 FOR STRUCTURED DATA COLLECTION
 ```
@@ -83,14 +85,14 @@ Built from internship CRM workflows to automate profile extraction, parsing, and
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/Automation-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Processing-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-6e40c9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Processing-0ea5e9?style=flat-square"/>
 
 <br/><br/>
 
 <a href="https://github.com/niya-shroff/linkedin-scraper">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -99,9 +101,9 @@ Built from internship CRM workflows to automate profile extraction, parsing, and
 <tr>
 <td width="50%" valign="top">
 
-## 🧠 FACIAL RECOGNITION APP
+### 🧠 FACIAL RECOGNITION APP
 
-```txt
+```text
 COMPUTER VISION SIDE QUEST
 BUILT DURING COLLEGE
 ```
@@ -110,39 +112,39 @@ Facial recognition experiment using OpenCV for face detection, identity matching
 
 <br/>
 
-<img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv"/>
-<img src="https://img.shields.io/badge/Computer_Vision-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/niya-shroff/facial-recognition-app">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 TUTOR PORTAL
+### 🎓 TUTOR PORTAL
 
-```txt
+```text
 JPMC CODE FOR GOOD PROJECT
 FOR THE JREAM FOUNDATION
 ```
 
-Swipe-style tutor matching platform focused on onboarding flows, modern UX patterns, and intuitive matching systems.
+Swipe-style tutor matching platform focused on onboarding flows, matching systems, and modern UX patterns.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full_Stack-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/UI%2FUX-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hackathon-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack-0f172a?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX-ec4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hackathon-005EB8?style=flat-square"/>
 
 <br/><br/>
 
 <a href="https://niyashroff.me">
-  <img src="https://img.shields.io/badge/LEARN_MORE-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LEARN_MORE-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
@@ -151,9 +153,9 @@ Swipe-style tutor matching platform focused on onboarding flows, modern UX patte
 
 ---
 
-# TECH_STACK
+# ```tech_stack/```
 
-```txt
+```text
 LANGUAGES      :: Python • Java • JavaScript • SQL • TypeScript
 
 BACKEND        :: FastAPI • Node.js • REST APIs • GraphQL
@@ -167,7 +169,11 @@ FRONTEND       :: React • Next.js • Angular • HTML/CSS
 
 ---
 
-```txt
+<div align="center">
+
+```text
 SYS.LOG :: "Just another human being on this beautiful
 planet trying to make sense of it all." ☻
 ```
+
+</div>
