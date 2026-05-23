@@ -1,119 +1,150 @@
+````md id="nsreadmev2"
 <div align="center">
 
-# [NS] ☻
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;NIYA+SHROFF+%5BNS%5D;SOFTWARE+ENGINEER+%40+JPMC;BUILDING+THINGS+WITH+PERSONALITY+%E2%98%BB" />
+
+<br/>
 
 ```txt
-INITIALIZING PORTFOLIO...
-TYPE: HUMAN
-STATUS: EXPLORING
-LOCATION: NYC
+TYPE     :: HUMAN
+STATUS   :: EXPLORING
+LOCATION :: NYC
+FOCUS    :: AI • SYSTEMS • AUTOMATION • CREATIVE TECH
 ```
 
-Software Engineer @ JPMorgan Chase & Co.  
-Building things somewhere between engineering, creativity, and curiosity.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niyashroff.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niyashroff)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niya-shroff)
+<a href="https://niyashroff.me">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/niyashroff">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/niya-shroff">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ABOUT_ME
-
-Recently graduated from UMass Amherst with a dual degree in **Computer Science + Economics** (Magna Cum Laude). I enjoy building systems that feel both technically solid and creatively expressive — usually involving AI, backend infrastructure, automation, or internet side quests that accidentally become real projects.
-
 ```txt
-CURRENTLY INTERESTED IN:
-AI Agents • RAG Systems • Backend Engineering • Automation
-Search Infrastructure • Human-Centered Software • Weird Ideas
+> EXECUTING about.sh
+
+Computer Science + Economics graduate from UMass Amherst.
+Currently working as a Software Engineer at JPMorgan Chase & Co.
+
+I enjoy building systems that feel technically solid but still human —
+usually involving AI, backend infrastructure, automation,
+search/retrieval systems, or weird internet experiments that
+accidentally become real products.
 ```
 
 ---
 
-## FEATURED_PROJECTS
+# SELECTED_WORK
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔎 Substacker
+## 🔎 SUBSTACKER
 
-Serverless FastAPI infrastructure for searching + discovering Substack content.
+```txt
+SERVERLESS SEARCH INFRASTRUCTURE
+FOR SUBSTACK DISCOVERY
+```
 
-#### Features
-- Public post search
-- Creator discovery
-- Metadata filtering
-- Search/retrieval experimentation
+FastAPI-based search system for exploring public Substack content through metadata filtering, creator discovery, and retrieval experimentation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/Serverless-FF9900?logo=amazonaws&logoColor=white)
+<br/>
 
-[![Code](https://img.shields.io/badge/View_Project-181717?logo=github)](https://github.com/niya-shroff/substacker)
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Serverless-111111?style=flat-square&logo=amazonaws"/>
+
+<br/><br/>
+
+<a href="https://github.com/niya-shroff/substacker">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 LinkedIn Scraper
+## 💼 LINKEDIN SCRAPER
 
-Educational automation + lead research tooling inspired by CRM workflows during internship work.
+```txt
+AUTOMATION + RESEARCH TOOLING
+FOR STRUCTURED DATA COLLECTION
+```
 
-#### Features
-- Profile extraction
-- Structured parsing
-- Workflow automation
-- Research pipelines
+Built from internship CRM workflows to automate profile extraction, parsing, and lead research pipelines.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Web_Automation-6e40c9)
-![Data](https://img.shields.io/badge/Data_Processing-0ea5e9)
+<br/>
 
-[![Code](https://img.shields.io/badge/View_Project-181717?logo=github)](https://github.com/niya-shroff/linkedin-scraper)
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Automation-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Processing-111111?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/niya-shroff/linkedin-scraper">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Facial Recognition App
+## 🧠 FACIAL RECOGNITION APP
 
-Computer vision side project built during college to recognize and track people I met over time.
+```txt
+COMPUTER VISION SIDE QUEST
+BUILT DURING COLLEGE
+```
 
-#### Features
-- Face detection
-- Identity matching
-- Recognition workflows
+Facial recognition experiment using OpenCV for face detection, identity matching, and local recognition workflows.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![CV](https://img.shields.io/badge/Computer_Vision-111827)
+<br/>
 
-[![Code](https://img.shields.io/badge/View_Project-181717?logo=github)](https://github.com/niya-shroff/facial-recognition-app)
+<img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/Computer_Vision-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
+
+<br/><br/>
+
+<a href="https://github.com/niya-shroff/facial-recognition-app">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Tutor Portal App
+## 🎓 TUTOR PORTAL
 
-Built during JPMorgan Code for Good for the JREAM Foundation.
+```txt
+JPMC CODE FOR GOOD PROJECT
+FOR THE JREAM FOUNDATION
+```
 
-#### Features
-- Swipe-style tutor matching
-- Onboarding workflows
-- Matching algorithms
-- Modern UX flows
+Swipe-style tutor matching platform focused on onboarding flows, modern UX patterns, and intuitive matching systems.
 
-![Full Stack](https://img.shields.io/badge/Full_Stack-0f172a)
-![Hackathon](https://img.shields.io/badge/JPMC-Code_For_Good-005EB8)
-![UI/UX](https://img.shields.io/badge/UI/UX-ec4899)
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Learn_More-000000?logo=vercel)](https://niyashroff.me)
+<img src="https://img.shields.io/badge/Full_Stack-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hackathon-111111?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://niyashroff.me">
+  <img src="https://img.shields.io/badge/LEARN_MORE-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 
 </td>
 </tr>
@@ -121,14 +152,24 @@ Built during JPMorgan Code for Good for the JREAM Foundation.
 
 ---
 
-> “Just another human being on this beautiful planet trying to make sense of it all.”
+# TECH_STACK
+
+```txt
+LANGUAGES      :: Python • Java • JavaScript • SQL • TypeScript
+
+BACKEND        :: FastAPI • Node.js • REST APIs • GraphQL
+
+AI / ML        :: RAG • LLMs • LangChain • Prompt Engineering
+
+CLOUD + TOOLS  :: AWS • Docker • Git • CI/CD
+
+FRONTEND       :: React • Next.js • Angular • HTML/CSS
+```
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niya-shroff&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niya-shroff&layout=compact&theme=transparent&hide_border=true)
-
-</div>
+```txt
+SYS.LOG :: "Just another human being on this beautiful
+planet trying to make sense of it all." ☻
+```
+````
