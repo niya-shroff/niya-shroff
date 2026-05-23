@@ -1,4 +1,4 @@
-# Hi, I’m Niya 👋
+# Hi, I’m Niya 
 
 ```txt
 building weird things on the internet.
@@ -7,17 +7,17 @@ mostly ai, automation, backend systems, and side quests that somehow become real
 
 I’m a software engineer interested in:
 - AI + developer tooling
-- backend systems + APIs
+- fullstack: frontend development & backend systems
 - automation + scraping workflows
 - experimentation-driven products
 - security/privacy-conscious tech
 - building things that feel fun and human
 
-Currently working in finance + tech while continuously shipping side projects.
+Currently working in finance + tech while shipping side projects.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🔎 Substacker
 ### Serverless FastAPI API for Substack search + discovery
@@ -34,7 +34,7 @@ Creating a Python/FastAPI service that allows users to search public Substack po
 
 ---
 
-## 💼 LinkedIn Scraper
+## LinkedIn Scraper
 ### Research + automation tooling
 
 Developed a LinkedIn scraper that collects structured profile data for educational/research purposes.
@@ -51,7 +51,7 @@ Features:
 
 ---
 
-## 🧠 Facial Recognition App
+## Facial Recognition App
 ### Computer vision side project
 
 Built a facial recognition app to track and recognize people I met throughout college.
@@ -65,7 +65,7 @@ Features:
 
 ---
 
-## 🎓 Tutor Portal App
+## Tutor Portal App
 ### J.P. Morgan Code for Good Hackathon
 
 Built for the JREAM Foundation.
@@ -80,7 +80,7 @@ A tutor-family matching platform with:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Languages
 ```txt
@@ -104,7 +104,7 @@ AWS • Git • Linux • Postman
 
 ---
 
-# 📚 Certifications
+# Certifications
 
 - AWS Certified Cloud Practitioner
 - Kaggle Intro to Machine Learning
@@ -112,7 +112,7 @@ AWS • Git • Linux • Postman
 
 ---
 
-# 🌱 Current Interests
+# Current Interests
 
 - AI agents
 - search + retrieval systems
@@ -124,7 +124,7 @@ AWS • Git • Linux • Postman
 
 ---
 
-# 🧩 About Me
+# About Me
 
 - Magna Cum Laude @ UMass Amherst
 - Philosophy & Open Thought Club VP
@@ -134,7 +134,7 @@ AWS • Git • Linux • Postman
 
 ---
 
-# 📫 Connect
+# Connect
 
 - Portfolio: https://niyashroff.me
 - LinkedIn: https://linkedin.com/in/niyashroff
@@ -142,7 +142,7 @@ AWS • Git • Linux • Postman
 
 ---
 
-# ⚡ Fun Fact
+# Fun Fact
 
 Most of my projects start with:
 
