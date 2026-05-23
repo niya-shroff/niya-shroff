@@ -1,110 +1,199 @@
-# Hi, I’m Niya 
+````md
+# [NS] INITIALIZING PROFILE...
 
 ```txt
-building weird things on the internet.
-mostly ai, automation, backend systems, and side quests that somehow become real products.
+> SYSTEM ONLINE
+> ENTITY DETECTED: NIYA SHROFF
+> TYPE: HUMAN
+> STATUS: EXPLORING
 ```
 
-I’m a software engineer interested in:
-- AI + developer tooling
-- fullstack: frontend development & backend systems
-- automation + scraping workflows
-- experimentation-driven products
-- security/privacy-conscious tech
-- building things that feel fun and human
+```ascii
+███╗   ██╗███████╗
+████╗  ██║██╔════╝
+██╔██╗ ██║███████╗
+██║╚██╗██║╚════██║
+██║ ╚████║███████║
+╚═╝  ╚═══╝╚══════╝
+```
 
-Currently working in finance + tech while shipping side projects.
+Software Engineer @ JPMorgan Chase & Co.  
+Building things that live somewhere between engineering, creativity, and curiosity.
 
----
+I like:
+- AI systems
+- backend engineering
+- workflow automation
+- weird internet projects
+- interfaces with personality
+- building things that maybe shouldn’t work… but somehow do
 
-# Featured Projects
-
-## 🔎 Substacker
-### Serverless FastAPI API for Substack search + discovery
-
-Creating a Python/FastAPI service that allows users to search public Substack posts based on:
-- usernames
-- keywords
-- metadata filters
-- publication-level discovery
-
-**Tech:** Python, FastAPI, APIs, Serverless
-
-> Turning fragmented creator content into searchable infrastructure.
+Currently based in New York City.
 
 ---
 
-## LinkedIn Scraper
-### Research + automation tooling
+# SYS.INFO
 
-Developed a LinkedIn scraper that collects structured profile data for educational/research purposes.
+```yaml
+NAME: Niya Shroff
+LOCATION: New York, NY
+EDUCATION:
+  - B.S. Computer Science
+  - B.A. Economics
+UNIVERSITY: UMass Amherst
+GRADUATION: December 2024
+HONORS: Magna Cum Laude
+CURRENT_ROLE: Software Engineer @ JPMorgan Chase & Co.
+STATUS: still figuring it all out ☻
+```
 
-Originally inspired by CRM and constituent research workflows during an internship.
+---
+
+# FEATURED_PROJECTS
+
+## 🔎 SUBSTACKER
+> Serverless FastAPI search infrastructure for Substack
+
+Creating a Python/FastAPI service that enables:
+- public Substack post search
+- username + metadata filtering
+- creator discovery
+- search infrastructure experimentation
+
+```txt
+STACK: Python • FastAPI • APIs • Serverless
+STATUS: ACTIVE
+```
+
+---
+
+## 💼 LINKEDIN SCRAPER
+> Research + automation tooling
+
+Built a LinkedIn profile scraper for educational/research workflows inspired by CRM lead research work during a prior internship.
 
 Features:
 - profile extraction
-- automation workflows
 - structured parsing
-- lead research tooling
+- automation pipelines
+- data collection workflows
 
-**Tech:** Python, Automation, Data Processing
+```txt
+STACK: Python • Automation • Data Processing
+STATUS: ONLINE
+```
 
 ---
 
-## Facial Recognition App
-### Computer vision side project
+## 🧠 FACIAL RECOGNITION APP
+> Computer vision side quest
 
-Built a facial recognition app to track and recognize people I met throughout college.
+A facial recognition app originally built for fun during college to recognize and track people I met throughout the years.
 
 Features:
 - face detection
 - identity matching
 - recognition workflows
 
-**Tech:** Python, OpenCV, Computer Vision
+```txt
+STACK: Python • OpenCV • Computer Vision
+STATUS: EXPERIMENTAL
+```
 
 ---
 
-## Tutor Portal App
-### J.P. Morgan Code for Good Hackathon
+## 🎓 TUTOR PORTAL APP
+> JPMorgan Code for Good Hackathon
 
 Built for the JREAM Foundation.
 
-A tutor-family matching platform with:
-- swipe-style tutor discovery
-- matching workflows
-- onboarding systems
-- intuitive UX inspired by modern matching apps
+A tutor-family matching platform featuring:
+- swipe-style matching
+- onboarding workflows
+- tutor discovery UX
+- matching algorithms
 
-**Tech:** Full-stack Web Development
-
----
-
-# Tech Stack
-
-## Languages
 ```txt
-Python • JavaScript • SQL • HTML/CSS
-```
-
-## Backend
-```txt
-FastAPI • APIs • Serverless • Automation
-```
-
-## AI / Data
-```txt
-OpenCV • ML Concepts • Data Workflows
-```
-
-## Cloud / Tools
-```txt
-AWS • Git • Linux • Postman
+STACK: Full-Stack Development
+STATUS: DEPLOYED
 ```
 
 ---
 
-# Certifications
+# TECHNICAL_ARSENAL
+
+## BACKEND_DEV
+```txt
+Python        ████████░░ 80%
+Java          ████████░░ 80%
+Node.js       ███████░░░ 70%
+Databases     ███████░░░ 70%
+```
+
+## ARTIFICIAL_INTELLIGENCE
+```txt
+RAG + LLMs    ███████░░░ 70%
+LangChain     ████████░░ 85%
+Prompt Eng    █████████░ 90%
+Pandas/NumPy  ██████░░░░ 60%
+```
+
+## FRONTEND_DEV
+```txt
+React/Next.js ██████░░░░ 65%
+Angular       █████░░░░░ 50%
+TypeScript    ██████░░░░ 65%
+HTML/CSS      ██████░░░░ 65%
+```
+
+## CLOUD_&_TOOLS
+```txt
+AWS           ████████░░ 80%
+Docker        ███████░░░ 70%
+Git/GitHub    █████████░ 90%
+CI/CD         ████████░░ 80%
+```
+
+---
+
+# CURRENT_INTERESTS
+
+- AI agents
+- search + retrieval systems
+- internet infrastructure
+- workflow automation
+- human-centered software
+- rapid prototyping
+- blending engineering with art/design
+- building products with personality
+
+---
+
+# ACADEMIC_LOGS
+
+## UNIVERSITY OF MASSACHUSETTS AMHERST
+```txt
+B.S. Computer Science
+B.A. Economics
+Graduated: December 2024
+Magna Cum Laude
+```
+
+### Coursework
+- Artificial Intelligence
+- Software Engineering
+- Algorithms & Data Structures
+- Econometrics
+- Game Theory
+- Project Management
+
+### Extracurriculars
+- Philosophy & Open Thought Club VP
+- Zoola Women’s Ultimate Frisbee Team
+
+---
+
+# CERTIFICATIONS
 
 - AWS Certified Cloud Practitioner
 - Kaggle Intro to Machine Learning
@@ -112,38 +201,40 @@ AWS • Git • Linux • Postman
 
 ---
 
-# Current Interests
+# OTHER_CAPABILITIES
 
-- AI agents
-- search + retrieval systems
-- workflow automation
-- internet infrastructure
-- human-centered software
-- rapid product experimentation
-- vibe-coded interfaces with real engineering underneath
-
----
-
-# About Me
-
-- Magna Cum Laude @ UMass Amherst
-- Philosophy & Open Thought Club VP
-- Interested in the intersection of tech + people
-- I like products with personality
-- Probably over-engineering side projects at 2am
+```txt
+ENGINEER
+WRITER
+PHOTOGRAPHER
+FILMMAKER
+PROFESSIONAL SIDE-QUESTER
+```
 
 ---
 
-# Connect
+# SYS.LOG
 
-- Portfolio: https://niyashroff.me
-- LinkedIn: https://linkedin.com/in/niyashroff
-- GitHub: https://github.com/niya-shroff
+> "Just another human being on this beautiful planet trying to make sense of it all."
 
 ---
 
-# Fun Fact
+# CONNECT
 
-Most of my projects start with:
+```txt
+PORTFOLIO  :: https://niyashroff.me
+LINKEDIN  :: https://linkedin.com/in/niyashroff
+GITHUB    :: https://github.com/niya-shroff
+LOCATION  :: New York City
+```
 
-> “wait… it would be funny if this actually worked.”
+---
+
+# FINAL_MESSAGE
+
+Most of my projects begin with:
+
+> "Wait... it would be funny if this actually worked."
+
+And somehow, eventually, they do ☻
+````
