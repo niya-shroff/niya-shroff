@@ -47,7 +47,7 @@ Automation + structured data extraction tooling.
 
 `Python • Automation • Data Engineering`
 
-🔗 https://github.com/niya-shroff/linkedin-scraper
+🔗 [https://github.com/niya-shroff/linkedin-scraper](https://github.com/niya-shroff/LinkedinScraper)
 
 ---
 
