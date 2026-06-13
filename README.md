@@ -4,7 +4,9 @@
 
 Software Engineer @ JPMorgan Chase & Co.
 
-<div style="max-width: 750px; text-align: center; line-height: 1.6;">
+<br/>
+
+<div align="center">
 
 Building systems at the intersection of AI, data, and human interaction.  
 From vector search and agentic workflows to real-time computer vision and full-stack platforms, I focus on designing systems that don’t just process data — they interpret and act on it.
