@@ -4,13 +4,9 @@
 
 Software Engineer @ JPMorgan Chase & Co.
 
-Building systems at the intersection of AI, data, and human-computer interaction.
+Building systems at the intersection of AI, data, and human interaction. From vector search and agentic workflows to real-time computer vision and full-stack platforms, I focus on designing systems that don’t just process data, they interpret and act on it.
 
-From vector search and agentic workflows to real-time computer vision and full-stack platforms, I focus on designing systems that don’t just process data — they interpret and act on it.
-
-I’m interested in how information moves through different layers of abstraction: from raw inputs, to structured representations, to intelligent decision-making systems.
-
-Across my work, I’ve explored this through retrieval systems, automation pipelines, and interactive applications that bridge machine perception with human intent.
+I’m interested in how information moves through different layers of abstraction: from raw inputs, to structured representations, to intelligent decision-making systems. Across my work, I’ve explored this through retrieval systems, automation pipelines, and interactive applications that bridge machine perception with human intent.
 
 <br/>
 
