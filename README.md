@@ -3,6 +3,7 @@
 # Niyati Shroff ☻
 
 Software Engineer @ JPMorgan Chase & Co. New York Metro Area
+<br/>
 **Full-Stack Software Developer | AI Engineer | System Designer**
 
 <br/>
