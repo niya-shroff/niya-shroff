@@ -6,135 +6,148 @@ Software Engineer @ JPMorgan Chase & Co.
 
 <br/>
 
-<div align="center">
+**AI Systems Engineer | Building agentic, retrieval, and perception-based systems**
+
+<br/>
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)]()
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)]()
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)]()
+
+</div>
+
+---
+
+## 🧠 About Me
 
 Building systems at the intersection of AI, data, and human interaction.  
 From vector search and agentic workflows to real-time computer vision and full-stack platforms, I focus on designing systems that don’t just process data — they interpret and act on it.
 
-<br/>
-
 I’m interested in how information moves through different layers of abstraction: from raw inputs, to structured representations, to intelligent decision-making systems. Across my work, I’ve explored this through retrieval systems, automation pipelines, and interactive applications that bridge machine perception with human intent.
 
+---
+
+## 🏆 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎵 VibeMap  
+Semantic music intelligence platform that turns Spotify libraries into a vector-based search and reasoning system.
+
+- Spotify ingestion into vector database (Qdrant)
+- LLM tool-calling agent for playlist generation
+- natural language music search (“vibe-based” queries)
+- Spotify OAuth + playlist export
+
+**Tech:** Python • FastAPI • React • Qdrant • LLM Agents • Spotify API  
+
+🔗 https://github.com/niya-shroff/vibemap  
+
+</td>
+
+<td width="50%">
+
+### 👋 Touchless Control  
+Real-time gesture-based computer interaction system using computer vision.
+
+- hand landmark tracking in real time
+- gesture recognition (cursor, click, drag, scroll)
+- Streamlit dashboard with live webcam feed
+- OS-level automation via PyAutoGUI
+
+**Tech:** Python • OpenCV • MediaPipe • Streamlit • PyAutoGUI  
+
+🔗 https://github.com/niya-shroff/touchless-control  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 SMA Intelligence Platform  
+Full-stack financial simulation system for SMA-based strategies with ML + agent components.
+
+- SMA-based signal generation and backtesting
+- ML pipeline for prediction + feature engineering
+- agent-based explanation + analysis layer
+- Dockerized backend + frontend architecture
+
+**Tech:** Python • FastAPI • React • Docker • ML Pipelines  
+
+🔗 https://github.com/niya-shroff/sma-intelligence-platform  
+
+</td>
+
+<td width="50%">
+
+### 📰 Substacker  
+API layer for transforming Substack RSS feeds into structured data.
+
+- RSS ingestion for newsletters
+- structured post extraction (metadata + content)
+- JSON API for downstream applications
+- serverless deployment (Vercel)
+
+**Tech:** Python • FastAPI • RSS • Serverless  
+
+🔗 https://github.com/niya-shroff/substacker  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💼 LinkedIn Scraper  
+Full-stack automation system for structured LinkedIn data extraction.
+
+- FastAPI scraping backend
+- React frontend dashboard
+- ChromeDriver automation pipeline
+- structured profile parsing (experience, summary, roles)
+
+**Tech:** Python • FastAPI • React • Docker • Web Automation  
+
+🔗 https://github.com/niya-shroff/LinkedinScraper  
+
+</td>
+
+<td width="50%">
+
+### 🧠 Facial Recognition App  
+Early computer vision project exploring identity detection and matching.
+
+- webcam-based face detection
+- OpenCV recognition pipeline
+- dataset-based matching experiments
+- foundational CV exploration
+
+**Tech:** Python • OpenCV • Computer Vision  
+
+🔗 https://github.com/niya-shroff/FacialRecognitionApp  
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+
+`SYS.LOG :: "Just another human trying to build things that help machines understand humans better." ☻`
+
 </div>
-
-<br/>
-
-<a href="https://niyashroff.me">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/niyashroff">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/niya-shroff">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## `about/`
-
-```txt
-FOCUS     :: AI Systems • Data Engineering • Automation • Human-Computer Interaction
-
-INTERESTS :: LLM Agents • Vector Search • Computer Vision • Full-Stack Systems
-
-CURRENT   :: Building intelligent systems that retrieve, process, and act on structured and unstructured data
-```
-
----
-
-## `selected_work/`
-
-### 🎵 VibeMap
-
-Semantic music intelligence platform that turns a Spotify library into a searchable vector space with LLM-driven interaction.
-
-* ingests Spotify library into a vector database (Qdrant)
-* natural language music search and playlist creation
-* LLM tool-calling agent for search and playlist workflows
-* Spotify OAuth integration with playlist export support
-
-`Python • FastAPI • React • Qdrant • LLM Agents • Spotify API`
-
-🔗 https://github.com/niya-shroff/vibemap
-
----
-
-### 👋 Touchless Control
-
-Real-time gesture-based computer interface using computer vision and webcam input.
-
-* hand tracking using landmark-based detection
-* gesture recognition for cursor movement, clicking, dragging, and scrolling
-* Streamlit dashboard for live video + controls
-* system-level mouse automation via PyAutoGUI
-
-`Python • OpenCV • MediaPipe • Streamlit • PyAutoGUI`
-
-🔗 https://github.com/niya-shroff/touchless-control
-
----
-
-### 📈 SMA Intelligence Platform
-
-Full-stack system for simulating and analyzing SMA-based trading strategies with ML and agent components.
-
-* SMA-based strategy simulation and signal generation
-* backend APIs for data, signals, and model inference
-* ML pipeline for feature generation and prediction
-* agent-based components for analysis and explanation
-* Dockerized full-stack architecture with frontend dashboard
-
-`Python • FastAPI • React • Docker • ML Pipelines`
-
-🔗 https://github.com/niya-shroff/sma-intelligence-platform
-
----
-
-### 📰 Substacker
-
-Lightweight API for fetching and structuring Substack newsletter content via RSS feeds.
-
-* converts Substack RSS feeds into structured JSON
-* extracts posts with metadata (title, link, date, content)
-* API layer for integration with other tools and apps
-* serverless deployment via Vercel
-
-`Python • FastAPI • RSS • Serverless APIs`
-
-🔗 https://github.com/niya-shroff/substacker
-
----
-
-### 💼 LinkedIn Scraper
-
-Full-stack automation system for extracting and structuring LinkedIn profile data.
-
-* FastAPI backend with scraping endpoints
-* React frontend for interactive profile lookup
-* ChromeDriver-based automation pipeline
-* structured extraction of work history and summaries
-* Dockerized multi-service architecture
-
-`Python • FastAPI • React • Docker • Web Automation`
-
-🔗 https://github.com/niya-shroff/LinkedinScraper
-
----
-
-### 🧠 Facial Recognition App
-
-Early computer vision project exploring face detection and identity matching.
-
-* webcam-based face detection and tracking
-* basic recognition pipeline using OpenCV
-* experimental dataset-based matching
-* foundational exploration of computer vision systems
-
-`Python • OpenCV • Computer Vision`
-
-🔗 https://github.com/niya-shroff/FacialRecognitionApp
