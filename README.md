@@ -23,7 +23,7 @@ Software Engineer @ JPMorgan Chase & Co.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Building systems at the intersection of AI, data, and human interaction.  
 From vector search and agentic workflows to real-time computer vision and full-stack platforms, I focus on designing systems that don’t just process data — they interpret and act on it.
@@ -32,7 +32,7 @@ I’m interested in how information moves through different layers of abstractio
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <table>
 
@@ -40,7 +40,7 @@ I’m interested in how information moves through different layers of abstractio
 
 <td width="50%">
 
-### 🎵 VibeMap  
+### VibeMap  
 Semantic music intelligence platform that turns Spotify libraries into a vector-based search and reasoning system.
 
 - Spotify ingestion into vector database (Qdrant)
@@ -56,7 +56,7 @@ Semantic music intelligence platform that turns Spotify libraries into a vector-
 
 <td width="50%">
 
-### 👋 Touchless Control  
+### Touchless Control  
 Real-time gesture-based computer interaction system using computer vision.
 
 - hand landmark tracking in real time
@@ -76,7 +76,7 @@ Real-time gesture-based computer interaction system using computer vision.
 
 <td width="50%">
 
-### 📈 SMA Intelligence Platform  
+### SMA Intelligence Platform  
 Full-stack financial simulation system for SMA-based strategies with ML + agent components.
 
 - SMA-based signal generation and backtesting
@@ -92,7 +92,7 @@ Full-stack financial simulation system for SMA-based strategies with ML + agent 
 
 <td width="50%">
 
-### 📰 Substacker  
+### Substacker  
 API layer for transforming Substack RSS feeds into structured data.
 
 - RSS ingestion for newsletters
@@ -112,7 +112,7 @@ API layer for transforming Substack RSS feeds into structured data.
 
 <td width="50%">
 
-### 💼 LinkedIn Scraper  
+### LinkedIn Scraper  
 Full-stack automation system for structured LinkedIn data extraction.
 
 - FastAPI scraping backend
@@ -128,7 +128,7 @@ Full-stack automation system for structured LinkedIn data extraction.
 
 <td width="50%">
 
-### 🧠 Facial Recognition App  
+### Facial Recognition App  
 Early computer vision project exploring identity detection and matching.
 
 - webcam-based face detection
