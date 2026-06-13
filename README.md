@@ -127,23 +127,3 @@ Early computer vision project exploring face detection and identity matching.
 `Python • OpenCV • Computer Vision`
 
 🔗 https://github.com/niya-shroff/FacialRecognitionApp
-
----
-
-## `summary/`
-
-```txt
-I build systems that retrieve, interpret, and act on data —
-spanning AI agents, computer vision, and full-stack infrastructure.
-```
-
----
-
-<div align="center">
-
-```txt
-SYS.LOG :: "Just another human trying to build things
-that make computers understand humans a little better." ☻
-```
-
-</div>
