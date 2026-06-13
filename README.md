@@ -1,9 +1,10 @@
 <div align="center">
 
-# [Niyas Shroff] ☻
+# Niyati Shroff ☻
 
-Software Engineer @ JPMorgan Chase & Co.  
-Building things somewhere between engineering, creativity, and curiosity.
+Software Engineer @ JPMorgan Chase & Co.
+
+Building systems at the intersection of AI, data, and human-computer interaction — from vector search and agentic workflows to real-time computer vision and full-stack platforms.
 
 <br/>
 
@@ -23,59 +24,117 @@ Building things somewhere between engineering, creativity, and curiosity.
 
 ---
 
-## ```selected_work/```
+## `about/`
 
-### 🔎 Substacker
-Serverless FastAPI system for Substack search + discovery.
+```txt
+FOCUS     :: AI Systems • Data Engineering • Automation • Human-Computer Interaction
 
-- creator discovery engine  
-- metadata-based filtering  
-- search infrastructure experiments  
+INTERESTS :: LLM Agents • Vector Search • Computer Vision • Full-Stack Systems
 
-`Python • FastAPI • Serverless`
+CURRENT   :: Building intelligent systems that retrieve, process, and act on structured and unstructured data
+```
+
+---
+
+## `selected_work/`
+
+### 🎵 VibeMap
+
+Semantic music intelligence platform that turns a Spotify library into a searchable vector space with LLM-driven interaction.
+
+* ingests Spotify library into a vector database (Qdrant)
+* natural language music search and playlist creation
+* LLM tool-calling agent for search and playlist workflows
+* Spotify OAuth integration with playlist export support
+
+`Python • FastAPI • React • Qdrant • LLM Agents • Spotify API`
+
+🔗 https://github.com/niya-shroff/vibemap
+
+---
+
+### 👋 Touchless Control
+
+Real-time gesture-based computer interface using computer vision and webcam input.
+
+* hand tracking using landmark-based detection
+* gesture recognition for cursor movement, clicking, dragging, and scrolling
+* Streamlit dashboard for live video + controls
+* system-level mouse automation via PyAutoGUI
+
+`Python • OpenCV • MediaPipe • Streamlit • PyAutoGUI`
+
+🔗 https://github.com/niya-shroff/touchless-control
+
+---
+
+### 📈 SMA Intelligence Platform
+
+Full-stack system for simulating and analyzing SMA-based trading strategies with ML and agent components.
+
+* SMA-based strategy simulation and signal generation
+* backend APIs for data, signals, and model inference
+* ML pipeline for feature generation and prediction
+* agent-based components for analysis and explanation
+* Dockerized full-stack architecture with frontend dashboard
+
+`Python • FastAPI • React • Docker • ML Pipelines`
+
+🔗 https://github.com/niya-shroff/sma-intelligence-platform
+
+---
+
+### 📰 Substacker
+
+Lightweight API for fetching and structuring Substack newsletter content via RSS feeds.
+
+* converts Substack RSS feeds into structured JSON
+* extracts posts with metadata (title, link, date, content)
+* API layer for integration with other tools and apps
+* serverless deployment via Vercel
+
+`Python • FastAPI • RSS • Serverless APIs`
 
 🔗 https://github.com/niya-shroff/substacker
 
 ---
 
 ### 💼 LinkedIn Scraper
-Automation + structured data extraction tooling.
 
-- profile parsing pipelines  
-- CRM-inspired workflows  
-- research automation system  
+Full-stack automation system for extracting and structuring LinkedIn profile data.
 
-`Python • Automation • Data Engineering`
+* FastAPI backend with scraping endpoints
+* React frontend for interactive profile lookup
+* ChromeDriver-based automation pipeline
+* structured extraction of work history and summaries
+* Dockerized multi-service architecture
 
-🔗 [https://github.com/niya-shroff/linkedin-scraper](https://github.com/niya-shroff/LinkedinScraper)
+`Python • FastAPI • React • Docker • Web Automation`
+
+🔗 https://github.com/niya-shroff/LinkedinScraper
 
 ---
 
 ### 🧠 Facial Recognition App
-Computer vision experiment built during college.
 
-- face detection + matching  
-- identity recognition system  
-- OpenCV-based pipeline  
+Early computer vision project exploring face detection and identity matching.
+
+* webcam-based face detection and tracking
+* basic recognition pipeline using OpenCV
+* experimental dataset-based matching
+* foundational exploration of computer vision systems
 
 `Python • OpenCV • Computer Vision`
 
-🔗 https://github.com/niya-shroff/facial-recognition-app
+🔗 https://github.com/niya-shroff/FacialRecognitionApp
 
 ---
 
-## ```toolbox/```
+## `summary/`
 
 ```txt
-LANGUAGES  :: Python • Java • JavaScript • SQL • TypeScript
-
-BACKEND    :: FastAPI • Node.js • REST APIs • GraphQL
-
-AI/ML      :: RAG • LLMs • LangChain • Prompt Engineering
-
-CLOUD      :: AWS • Docker • CI/CD • GitHub Actions
-
-FRONTEND   :: React • Next.js • Angular • HTML/CSS
+I build systems that retrieve, interpret, and act on data —
+spanning AI agents, computer vision, and full-stack infrastructure.
 ```
 
 ---
@@ -83,8 +142,8 @@ FRONTEND   :: React • Next.js • Angular • HTML/CSS
 <div align="center">
 
 ```txt
-SYS.LOG :: "Just another human being on this planet
-trying to make sense of it all." ☻
+SYS.LOG :: "Just another human trying to build things
+that make computers understand humans a little better." ☻
 ```
 
 </div>
