@@ -1,14 +1,6 @@
 <div align="center">
 
-# [NS] ☻
-
-```txt
-INITIALIZING PORTFOLIO...
-TYPE     :: HUMAN
-STATUS   :: EXPLORING
-LOCATION :: NYC
-FOCUS    :: AI • SYSTEMS • AUTOMATION • CREATIVE TECH
-```
+# [Niyas Shroff] ☻
 
 Software Engineer @ JPMorgan Chase & Co.  
 Building things somewhere between engineering, creativity, and curiosity.
@@ -28,20 +20,6 @@ Building things somewhere between engineering, creativity, and curiosity.
 </a>
 
 </div>
-
----
-
-## ```about.sh```
-
-```txt
-Computer Science + Economics graduate from UMass Amherst (Magna Cum Laude).
-
-I build systems that sit at the intersection of:
-engineering, AI, automation, and human behavior.
-
-Most of my work starts as a small experiment
-and quietly turns into a real system.
-```
 
 ---
 
