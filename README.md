@@ -25,8 +25,7 @@ Software Engineer @ JPMorgan Chase & Co.
 
 ## About Me
 
-Building production-grade applications at the intersection of AI, data, and human interaction, incorporating ever-evolving best practices and modern tech stacks.  
-From vector search and agentic workflows to real-time computer vision and full-stack platforms, I focus on designing systems that don’t just process data, but also interpret and act on it.
+Building production-grade applications at the intersection of AI, data, and human interaction, incorporating ever-evolving best practices and modern tech stacks. From vector search and agentic workflows to real-time computer vision and full-stack platforms, I focus on designing systems that don’t just process data, but also interpret and act on it.
 
 I’m interested in how information moves through different layers of abstraction: from raw inputs, to structured representations, to intelligent decision-making systems. Across my work, I’ve explored this through retrieval systems, automation pipelines, and interactive applications that bridge machine perception with human intent.
 
