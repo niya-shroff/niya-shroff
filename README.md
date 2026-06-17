@@ -1,6 +1,6 @@
 <div align="center">
 
-# Niyati Shroff ☻
+# Niya Shroff ☻
 
 Software Engineer @ JPMorgan Chase & Co. 
 <br/>
