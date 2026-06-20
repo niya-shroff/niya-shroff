@@ -75,8 +75,8 @@ Real-time gesture-based computer interaction system using computer vision.
 
 <td width="50%">
 
-### SMA Intelligence Platform  
-Full-stack financial simulation system for SMA-based strategies with ML + agent components.
+### SMA Intelligence Platform  (WIP)
+Full-stack financial simulation system for SMA-based strategies with future ML + agent components coming .
 
 - SMA-based signal generation and backtesting
 - ML pipeline for prediction + feature engineering
