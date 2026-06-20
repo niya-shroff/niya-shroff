@@ -146,7 +146,4 @@ Early computer vision project exploring identity detection and matching.
 </table>
 
 <div align="center">
-
-`SYS.LOG :: "Just another human trying to build things that help machines understand humans better." ☻`
-
 </div>
