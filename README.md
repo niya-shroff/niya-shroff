@@ -2,9 +2,7 @@
 
 # Niya Shroff ☻
 
-<a href="https://niyashroff.me" target="_blank">
-  🌐 niyashroff.me
-</a>
+[![Website](https://img.shields.io/badge/-niyashroff.me-000000?logo=googlechrome&logoColor=white)](https://niyashroff.me)
 
 Software Engineer @ JPMorgan Chase & Co. 
 <br/>
