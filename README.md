@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/-niyashroff.me-000000?logo=googlechrome&logoColor=white)](https://niyashroff.me)
 
-Software Engineer @ JPMorgan Chase & Co. 
+Product Associate @ JPMorgan Chase & Co. 
 <br/>
 📍New York Metro Area
 <br/>
