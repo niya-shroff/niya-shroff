@@ -8,7 +8,7 @@ Product Associate @ JPMorgan Chase & Co.
 <br/>
 📍New York Metro Area
 <br/>
-**Full-Stack Software Developer | AI Engineer | System Designer**
+** Product Associate| AI Engineer | System Designer**
 
 <br/>
 
